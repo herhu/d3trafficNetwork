@@ -1,0 +1,4 @@
+Django
+djangorestframework
+clickhouse-connect
+django-cors-headers
